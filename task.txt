@@ -1,0 +1,6 @@
+Dataset (attached): tripadvior hotel reviews
+Challenge: Can you identify what makes hotels good or bad?
+Deliverables:
+1) R/Python Codes or Excel workbook
+2) A few slides that conclude your findings
+3) Optional: 1 page slide on how would you use the data for other purpose or what other datasets you would use to give a more comprehensive answer to the question.
